@@ -22,6 +22,6 @@
  */
 
 typedef struct {
-    char code;
+    int code;
     char* command;
 } keymap;
